@@ -1,2 +1,2 @@
 شاشه تسجيل الدخول
-[login Screen](login.jpg)
+[login Screen](Login.jpg)
